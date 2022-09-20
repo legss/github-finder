@@ -13,8 +13,7 @@ Este desafio, faz parte do treinamento Dev Quest, realizado pelo [Dev-em-Dobro](
 
 ### Screenshot
 
-![](src/images/desktop-image.png)
-![](src/images/mobile-image.png)
+![](src/images/quest-js-avancado.gif)
 
 ### Live Site
 
